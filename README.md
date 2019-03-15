@@ -9,17 +9,17 @@ We moeten dus eerst git op PC opgezet hebben met SSH om alles te laten werken
 Maak project op Git (leeg) alleen met readme file.
 
 Clone met SSH naar folder op PC.
-* $ git clone git@github.com:GASOLINE/testingonly.git
+* $ git clone git@github.com:GASOLINE/git-manual
     
-• Add new files
-    $ git add filname.ext
-    $ git add . (=alles)
+Add new files
+* $ git add filname.ext
+* $ git add . (=alles)
 
-• Opmerkingen erbij zetten
-    $ git commit -m “Opmerkingen hier zetten”
+Opmerkingen erbij zetten
+* $ git commit -m “Opmerkingen hier zetten”
     
-• Zoeken verschillen
-    $ git diff
+Zoeken verschillen
+* $ git diff
     
-• Aanpassingen terugzetten naar Github
-    $ git push 
+Aanpassingen terugzetten naar Github
+* $ git push 
