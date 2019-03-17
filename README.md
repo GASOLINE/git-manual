@@ -50,3 +50,5 @@ Maak project op Git (leeg) alleen met readme file.
 Je kan .gitignore als basis gebruiken
 
 Enjoy
+
+https://gasoline.github.io/git-manual/
