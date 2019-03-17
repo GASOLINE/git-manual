@@ -44,4 +44,9 @@ Maak project op Git (leeg) alleen met readme file.
 **Aanpassingen terugzetten naar Github**
 * $ git push
 
+###Systeemwijd ignore file opzetten
+* $ git config --global core.excludesfile ~/.gitignore_global
+
+Je kan .gitignore als basis gebruiken
+
 Enjoy
